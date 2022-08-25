@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaredevilGabby
 - 👀 I’m interested in games and bots and more
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, C++ and Rust
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me N/A
 
